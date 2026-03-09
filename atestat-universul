@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="ro">
+
+<head>
+<meta charset="UTF-8">
+<title>Atestat - Universul</title>
+
+<style>
+
+body{
+font-family: Arial;
+background:black;
+color:white;
+margin:0;
+line-height:1.6;
+}
+
+header{
+background:darkblue;
+text-align:center;
+padding:30px;
+}
+
+nav{
+background:#111;
+text-align:center;
+padding:15px;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+nav a:hover{
+color:cyan;
+}
+
+section{
+padding:40px;
+max-width:900px;
+margin:auto;
+}
+
+h2{
+color:cyan;
+}
+
+footer{
+background:#111;
+text-align:center;
+padding:20px;
+margin-top:40px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>Universul</h1>
+<p>Atestat Informatică</p>
+<p>Realizat de: Marinel Matei </p>
+</header>
+
+<nav>
+<a href="#introducere">Introducere</a>
+<a href="#bigbang">Big Bang</a>
+<a href="#galaxii">Galaxii</a>
+<a href="#sistem">Sistemul Solar</a>
+<a href="#gauri">Găuri Negre</a>
+<a href="#concluzie">Concluzie</a>
+</nav>
+
+<section id="introducere">
+
+<h2>Introducere</h2>
+
+<p>
+Universul reprezintă totalitatea spațiului, timpului, materiei și energiei existente. 
+El include toate galaxiile, stelele, planetele, nebuloasele și orice alt obiect cosmic.
+Studiul universului se realizează prin intermediul astronomiei și cosmologiei.
+</p>
+
+<p>
+Oamenii au fost fascinați de cer încă din cele mai vechi timpuri. Civilizațiile
+antice observau mișcarea stelelor și planetelor și încercau să explice
+originea și structura universului.
+</p>
+
+<p>
+Astăzi, datorită tehnologiei moderne și telescoapelor spațiale,
+oamenii de știință pot observa obiecte cosmice aflate la miliarde
+de ani lumină distanță.
+</p>
+
+</section>
+
+<section id="bigbang">
+
+<h2>Teoria Big Bang</h2>
+
+<p>
+Cea mai acceptată teorie privind formarea universului este teoria Big Bang.
+Aceasta afirmă că universul a luat naștere în urmă cu aproximativ
+13.8 miliarde de ani.
+</p>
+
+<p>
+La început, universul era extrem de dens și fierbinte. În urma unei
+expansiuni rapide, materia și energia au început să se răspândească
+în toate direcțiile.
+</p>
+
+<p>
+Pe măsură ce universul s-a răcit, s-au format primele particule,
+apoi atomii, stelele și galaxiile.
+</p>
+
+<p>
+Chiar și în prezent, universul continuă să se extindă,
+iar galaxiile se îndepărtează una de cealaltă.
+</p>
+
+</section>
+
+<section id="galaxii">
+
+<h2>Galaxiile</h2>
+
+<p>
+Galaxiile sunt sisteme uriașe formate din miliarde sau chiar trilioane
+de stele, împreună cu gaze, praf cosmic și materie întunecată.
+</p>
+
+<p>
+Există mai multe tipuri de galaxii:
+</p>
+
+<ul>
+<li>Galaxii spirale</li>
+<li>Galaxii eliptice</li>
+<li>Galaxii neregulate</li>
+</ul>
+
+<p>
+Galaxia în care se află Sistemul Solar se numește Calea Lactee.
+Aceasta conține sute de miliarde de stele.
+</p>
+
+<p>
+Se estimează că în univers există miliarde de galaxii.
+</p>
+
+</section>
+
+<section id="sistem">
+
+<h2>Sistemul Solar</h2>
+
+<p>
+Sistemul Solar este format din Soare și toate obiectele care orbitează
+în jurul lui. Soarele este o stea care oferă lumină și energie
+planetelor din jur.
+</p>
+
+<p>
+Planetele Sistemului Solar sunt:
+</p>
+
+<ul>
+<li>Mercur</li>
+<li>Venus</li>
+<li>Pământ</li>
+<li>Marte</li>
+<li>Jupiter</li>
+<li>Saturn</li>
+<li>Uranus</li>
+<li>Neptun</li>
+</ul>
+
+<p>
+Pe lângă planete, Sistemul Solar mai conține sateliți naturali,
+asteroizi și comete.
+</p>
+
+</section>
+
+<section id="gauri">
+
+<h2>Găurile Negre</h2>
+
+<p>
+Găurile negre sunt unele dintre cele mai misterioase obiecte
+din univers. Ele apar atunci când o stea foarte masivă
+se prăbușește sub propria gravitație.
+</p>
+
+<p>
+Forța gravitațională a unei găuri negre este atât de mare
+încât nimic nu poate scăpa din interiorul ei, nici măcar lumina.
+</p>
+
+<p>
+De aceea, găurile negre nu pot fi observate direct,
+dar pot fi detectate prin efectele pe care le au asupra
+obiectelor din jur.
+</p>
+
+</section>
+
+<section id="concluzie">
+
+<h2>Concluzie</h2>
+
+<p>
+Universul este vast și plin de mistere. Deși oamenii de știință
+au descoperit foarte multe lucruri despre cosmos, încă există
+numeroase întrebări fără răspuns.
+</p>
+
+<p>
+Explorarea universului continuă prin intermediul telescoapelor,
+sondelor spațiale și cercetărilor astronomice.
+</p>
+
+<p>
+În viitor, este posibil ca omenirea să descopere noi planete,
+noi galaxii și poate chiar forme de viață extraterestră.
+</p>
+
+</section>
+
+<footer>
+
+<p>Atestat Informatică - Universul</p>
+
+</footer>
+
+</body>
+</html>
